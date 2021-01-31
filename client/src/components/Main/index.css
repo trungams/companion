@@ -1,0 +1,22 @@
+.logo {
+  height: 32px;
+  margin: 16px;
+  background: rgba(255, 255, 255, 0.3);
+}
+
+.site-layout .site-layout-background {
+  background: #fff;
+}
+[data-theme="dark"] .site-layout .site-layout-background {
+  background: #141414;
+}
+
+.header {
+  background: #4327a1;
+  margin: 0 16px;
+  text-align: center;
+}
+.signOut-btn {
+  margin-left: 50px;
+  margin-top: 5px;
+}
